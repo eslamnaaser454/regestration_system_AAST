@@ -1,0 +1,13 @@
+EBA1204 Lec_Calculus_I  A_106 Sunday 8:30 Zeinab_AboElHassan
+CCS1302 Lec_Problem_Solving_And_Programming A_106 Sunday 10:30 Yasser_Ahmed
+UNR1403 Lec_Academic_English A_106 Sunday 12:30 Gerges_Sobhi
+EBA1106 Lec_Advanced_Physics A_106 Monday 8:30 Mohamed_Anwar
+CCS1001 Lec_Discrete_Structures A-106 Monday 10:30 Mohamed_Abdel_Hameed
+CNC1401 Lec_Entrepreneurship_Skills Online Monday 2:30 Mohamed_Ramadan
+EBA1204 Sec_Calculus_I  A_104 Tuesday 8:30 Ola_Hamadeh
+UNR1403 Sec_Academic_English A_104 Tuesday 10:30 Gerges_Sobhi
+CCS1302 Sec_Problem_Solving_And_Programming A_302 Tuesday 12:30 Mohamed_Salah
+CCS1001 Sec_Discrete_Structures A-104 Wednesday 8:30 Hadeel_AbdELkareem
+EBA1106 Lab_Advanced_Physics A_102 Wednesday 10:30 Asmaa_Ahmed
+CCS1001 Sec_Discrete_Structures A-104 Wednesday 10:30 Hadeel_AbdELkareem
+CCS1302 Lab_Problem_Solving_And_Programming A_302 Wednesday 12:30 Mohamed_Yasir

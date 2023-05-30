@@ -1,0 +1,12 @@
+EBA0201 Lec_Precalculus  A_107 Sunday 8:30 Fatima_Ahmed
+CCS1101 Lec_Introduction_To_Computing A_106 Sunday 10:30 Amar_hassen
+UNR1403 Lec_Academic_English A_106 Sunday 12:30 Hassan_Nasser
+EBA1110 Lac_Physics A_106 Monday 8:30 Mohamed_Anwar
+UNR1102 Lec_Creativity_And_Innovation A-106 Monday 10:30 Mahmoud_Mohamed
+CNC1401 Lec_Fundamentals_Of_Business A-107 Monday 2:30 Waled_Alam
+CNC1401 Lec_Introduction_To_Information_Systems A-107 Monday 2:30 Mohamed_Abdel_Hameed
+EBA0201 Sec_Precalculus A_104 Tuesday 8:30 Ola_Hamadeh
+UNR1403 Sec_Academic_English A_104 Tuesday 10:30 Gerges_Sobhi
+CCS1101 Sec_Introduction_To_Computing A_302 Tuesday 12:30 Mohamed_Salah
+CIS1000 Sec_Introduction_To_Information_Systems A-104 Wednesday 8:30 Tamer_AbdELatif
+EBA1110 Lab_Physics A_102 Wednesday 10:30 Asmaa_Ahmed
